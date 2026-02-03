@@ -18,6 +18,9 @@ for a detailed list of changes.
 
 More information can be found on the [Waymo Open Dataset website](https://waymo.com/open/).
 
+For a minimal Colab + Google Drive workflow that reads TFRecords and previews
+camera images, see [docs/colab_google_drive.md](docs/colab_google_drive.md).
+
 ## License
 
 This code repository (excluding
